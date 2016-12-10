@@ -1,0 +1,26 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "Advent of Code day 1 problem",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wk-cof/advent-of-code.git"
+  },
+  "keywords": [
+    "adventofcode",
+    "advent",
+    "of",
+    "code",
+    "advent"
+  ],
+  "author": "Mikhail Gorbachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wk-cof/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/wk-cof/advent-of-code#readme"
+}
